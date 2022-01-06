@@ -1,4 +1,4 @@
-package com.yehor.booklist.repository;
+package com.yehor.booklist.repository.mapper;
 
 import com.yehor.booklist.entity.Book;
 import com.yehor.booklist.entity.BookStatus;

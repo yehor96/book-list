@@ -1,6 +1,7 @@
 package com.yehor.booklist.repository;
 
 import com.yehor.booklist.entity.Book;
+import com.yehor.booklist.repository.mapper.BookMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
