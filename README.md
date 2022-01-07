@@ -1,6 +1,6 @@
 # book-list
 
-REST application that allows storing books, authors and books that one is reading. Supports CRUD operations.
+REST application that allows storing books, authors and books that one is reading. Supports CRUD operations. Base url -> http://localhost:8080/book-list
 
 Stack: Spring Boot, JdbcTemplate, PostgreSQL, Docker, Lombok
 
